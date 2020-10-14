@@ -1,7 +1,7 @@
 # Miembros
 
-* Nick Fury
 * Capitán America
+* Nick Fury
 * Black panther
 * Black Widow
 * Capitán Marvel
